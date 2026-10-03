@@ -4,6 +4,357 @@ These are intentionally large creative briefs for generating individual design e
 
 ---
 
+# PROMPT 00 — HERO-ONLY BRAND WORLD / WGSN-INSPIRED CREATIVE DIRECTION
+
+Create one exceptionally art-directed brand hero section using Next.js and TypeScript.
+
+This is a BIG creative direction brief for a SMALL physical scope.
+
+The result must be limited to one hero viewport only. Do not turn the concept into a full landing page, long-scroll website, feature story, collection grid, dashboard, or multi-section marketing site.
+
+The hero should feel like the opening frame of a premium trend forecast, fashion editorial, luxury campaign, technology launch, or cultural brand story.
+
+## Core creative idea
+
+Build a single visual world with enough depth that it feels like an entire brand universe has been compressed into one frame.
+
+The hero should establish only:
+
+BRAND
+MOOD
+OBJECT / IMAGE
+MATERIAL
+TYPE
+MOTION
+ONE ACTION
+
+The hero should communicate its identity immediately, but reward closer inspection through micro-details.
+
+Use the supplied WGSN Top Trends 2026 sample report as a visual and conceptual reference, not as copy or a layout to reproduce.
+
+The report demonstrates strong editorial art direction: oversized titles, high-contrast image/text relationships, bold but controlled colour fields, small technical labels, framed imagery, asymmetry, short trend statements, and distinct visual worlds for different cultural directions.
+
+Translate that editorial logic into an original brand hero.
+
+## HERO COMPOSITION
+
+Use a deliberate asymmetrical composition.
+
+Possible structure:
+
+LEFT / brand lockup + oversized statement
+
+CENTER / dominant hero object, model, product, material, or image
+
+RIGHT / tiny technical metadata, edition information, or restrained interaction
+
+BOTTOM / one minimal action or navigation cue
+
+These are suggestions, not mandatory columns.
+
+The composition can instead use an image aperture, oversized typography, an object partially leaving the frame, a vertical image strip, a cropped material macro, or a dramatic negative-space field.
+
+The hero must feel composed rather than filled.
+
+Allow important elements to run beyond the visual frame.
+
+Use cropping as an art-direction tool.
+
+Use scale contrast aggressively: one dominant visual element, one secondary typographic element, and very small supporting information.
+
+## BRAND EXPRESSION
+
+Do not make the brand feel like a generic SaaS startup.
+
+Choose one clear identity territory:
+
+LUXURY
+FASHION
+JEWELLERY
+BEAUTY
+TECHNOLOGY
+AUTOMOTIVE
+ARCHITECTURE
+OBJECT DESIGN
+CULTURAL BRAND
+FUTURE RETAIL
+
+Then establish a distinctive visual language from that territory.
+
+The brand mark should have intentional spacing and placement.
+
+The statement should feel editorial rather than like marketing copy.
+
+Example structure:
+
+AURELIA
+HAUTE JOAILLERIE
+
+FORM / 01
+THE NEW LANGUAGE OF LIGHT
+
+[hero object]
+
+VIEW OBJECT →
+
+The actual words must be original to the selected brand.
+
+## VISUAL MATERIAL
+
+Treat the hero as a physical scene.
+
+Choose one primary material language:
+
+polished platinum
+brushed metal
+glass
+translucent resin
+stone
+paper
+lacquer
+textile
+ceramic
+soft matte polymer
+liquid surface
+or another coherent material.
+
+Lighting should reveal form.
+
+Do not rely on a generic gradient to create luxury.
+
+Use controlled highlights, shadow falloff, reflections, texture, atmospheric depth, and intentional cropping.
+
+## TREND-FORECAST EDITORIAL LOGIC
+
+The reference report demonstrates that a trend story can become visually recognizable through a combination of:
+
+a strong named idea
+a distinct colour world
+a hero image
+large editorial typography
+short supporting copy
+small structural labels
+and a coherent visual mood.
+
+Apply that principle to the brand hero.
+
+Do not create a literal trend-report replica.
+
+Instead, create an original brand identity that feels culturally current and future-facing.
+
+Possible creative directions:
+
+### PLAYFUL FUTURE
+Unexpected colour, miniature-scale object, charming technology, expressive type, subtle humour, controlled visual surprise.
+
+### DIGITAL PRIVILEGE
+Quiet luxury, restrained interface elements, negative space, offline-inspired calm, precious material treatment, almost no visual noise.
+
+### EXCLUSIVITY
+Obscured product, controlled reveal, private-club atmosphere, limited information, invitation-like action, deliberate mystery.
+
+### GUARDIAN OBJECT
+Protective engineering, precision hardware, technical labels, strong construction lines, refined utilitarian materials.
+
+### GOLD / STATUS
+Warm metallic atmosphere, sculptural object, rich materiality, editorial glamour, controlled opulence.
+
+### RUGGED LUXURY
+Outdoor-inspired materiality combined with refined typography, tactile surfaces, premium durability, sophisticated escapism.
+
+### MICRO JOY
+One tiny object presented at monumental scale, playful interaction, collectible feeling, unexpected proportions.
+
+These directions are starting points. The final hero must establish its own identity.
+
+## TYPOGRAPHY
+
+Use only the minimum number of type roles.
+
+DISPLAY
+Large editorial statement or brand word.
+
+INTERFACE
+Small navigation/action text.
+
+TECHNICAL
+Monospaced or tabular metadata.
+
+The display typography may be oversized and may partially crop outside the viewport.
+
+Do not fill the hero with text.
+
+Typography must create hierarchy through scale, position, whitespace, and contrast.
+
+## COLOUR
+
+Use semantic tokens:
+
+BG
+SURFACE
+TEXT
+TEXT-MUTED
+LINE
+ACCENT
+MATERIAL
+HIGHLIGHT
+SHADOW
+
+Choose one dominant colour world.
+
+Do not automatically use black + purple + blue gradients.
+
+A colour system can be monochrome, warm metallic, earth/olive, deep red, electric blue, soft cyan, unexpected playful colour, or another art-directed palette.
+
+## MOTION
+
+The hero must already look finished when completely still.
+
+Then add one signature movement.
+
+Examples:
+
+slow material light sweep
+image aperture reveal
+subtle object parallax
+typography tracking transition
+precision camera shift
+hover-based reflection
+one controlled entrance sequence
+
+Do not animate every element.
+
+Avoid constant floating, random parallax, glitch, bouncy UI, scroll-jacking, infinite attention loops, excessive blur, and large cursor effects.
+
+The animation should feel like a property of the material or brand.
+
+## INTERACTION
+
+Keep interaction extremely limited.
+
+One primary interaction is enough.
+
+Possible interaction:
+
+HOVER / INSPECT
+DRAG / ROTATE
+CLICK / REVEAL
+MOVE / LIGHT
+HOLD / MATERIAL SHIFT
+TOGGLE / CONSTRUCTION
+
+The interaction should deepen the hero rather than turn it into a tool dashboard.
+
+On touch devices, provide an equivalent simple gesture or tap state.
+
+## HERO-ONLY BOUNDARY
+
+This is critical.
+
+DO NOT add:
+
+navbar systems
+feature sections
+about sections
+services
+testimonials
+pricing
+FAQ
+newsletter
+footer
+large product grids
+long storytelling sections
+multiple scroll chapters
+fake dashboard panels
+generic card layouts
+
+If the design naturally wants another section, express that information inside the hero using scale, crop, metadata, or a single interaction.
+
+The deliverable is ONE HERO.
+
+It may be visually huge.
+
+It must not become structurally huge.
+
+## RESPONSIVE ART DIRECTION
+
+Desktop can be a wide cinematic composition.
+
+Tablet can compress the composition.
+
+Mobile may become a completely different crop.
+
+For mobile:
+
+keep the brand mark
+keep the primary visual
+keep the core statement
+remove secondary clutter
+move metadata if necessary
+replace pointer-only effects
+preserve the intended hierarchy
+
+Do not simply scale the desktop hero down.
+
+## QUALITY BAR
+
+The final screenshot should look like a real premium campaign frame, not a developer demo.
+
+Ask:
+
+Does the first frame have a strong point of view?
+
+Could this be recognized without reading the code?
+
+Does the hero feel like one coherent brand world?
+
+Is the object/image treated as art direction rather than decoration?
+
+Does typography feel editorial?
+
+Is there enough negative space?
+
+Is the interaction restrained?
+
+Would the design still work if all animation were disabled?
+
+If yes, the animation can enhance it.
+
+If no, redesign the composition before adding more effects.
+
+## TECHNICAL REQUIREMENTS
+
+Next.js
+TypeScript
+component-driven
+responsive
+accessible
+performance-conscious
+image-optimized
+reduced-motion support
+keyboard-accessible interaction
+
+Use CSS transforms, opacity, clip-path, SVG, and requestAnimationFrame where useful.
+
+Avoid unnecessary WebGL, oversized canvas simulations, heavy video, and continuous expensive layout calculations.
+
+Suggested component boundary:
+
+BrandHero
+HeroMedia
+HeroObject
+BrandLockup
+HeroStatement
+HeroMeta
+HeroAction
+HeroInteraction
+
+Do not create a giant EverythingHero component.
+
+The hero should be reusable as a single premium brand module.
+
+---
+
 # PROMPT 01 — PREMIUM DIGITAL BRAND OBJECT
 
 Create a single-screen premium digital brand showcase experiment using Next.js and TypeScript.
